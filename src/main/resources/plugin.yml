@@ -1,0 +1,10 @@
+name: EpicSpleef
+main: sh.tmb.EpicSpleef.EpicSpleef
+version: 1.0
+api-version: 1.15
+depend: [ProtocolLib]
+commands:
+  disable:
+    description: disable this plugin.
+  control:
+    description: control the game.

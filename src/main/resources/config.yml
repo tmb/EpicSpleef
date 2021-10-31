@@ -1,0 +1,25 @@
+maps:
+  natural:
+    x: 8
+    y: 4
+    z: 8
+    radius: 23
+    spleef-blocks:
+      - COBBLESTONE
+      - STONE_BRICK
+  hell:
+    x: 0
+    y: 15
+    z: 0
+    radius: 23 # radius at which powerups will spawn around the center block
+    spleef-blocks:
+    - NETHERRACK
+  water:
+    x: -1
+    y: 24
+    z: 0
+    radius: 23
+    spleef-blocks:
+    - PRISMARINE
+    - SEA_LANTERN
+
